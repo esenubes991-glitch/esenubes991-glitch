@@ -1,14 +1,15 @@
-## Hi there 👋 I'm esenubes991-glitch
+### Hi there 👋 I'm esenubes991-glitch | Oaxaqueño Dev 🇲🇽
 
-### 🧬 Developer | Calculator Builder | Glitch Creator
+📍 Tlacochahuaya, Oaxaca
+💻 Building from Android with Pydroid 3
+
+🧬 Developer | Calculator Builder | Glitch Creator
 ¡Bienvenido a mi perfil! Soy un creador apasionado por el código.
 
 ### 🚀 Mis Proyectos en Vivo
-- 🧮 [GLITCH CALC - Calculadora Pro](https://esenubes991-glitch.github.io/Calculadora-/)
-- 🔐 [GLITCH PASS - Generador de Contraseñas](https://esenubes991-glitch.github.io/Password--glitch/)
 
-### 🛠️ Tech Stack
-`HTML` `CSS` `JavaScript` `GitHub Pages`
+🧮 [GLITCH CALC - Calculadora](https://esenubes991-glitch.github.io/Calculadora-/)
+🔐 [GLITCH PASS - Generador de Contraseñas](https://esenubes991-glitch.github.io/Password--glitch/)
+✅ [GLITCH TODO - Lista de Tareas](https://esenubes991-glitch.github.io/Todo--glitch/)
 
----
-⚡ @esenubes991-glitch - Creando desde Oaxaca
+**Tech Stack:** HTML | CSS | JavaScript | GitHub Pages | Python
